@@ -1,4 +1,4 @@
-Why yes I am using version control software to write a cookbook. In part bc I think it's funny to make updates in the language of bug reports, but also so I have a place to show people if the ask.
+Why yes I am using version control software to write a cookbook. In part bc I think it's funny to make updates to recipes in the language of bug reports, but also so I have a place to show them to people, it might as well be here!
 
 These are mostly things I've made at least ten times.
 
