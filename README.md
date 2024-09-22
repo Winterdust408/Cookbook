@@ -2,4 +2,4 @@ Why yes I am using version control software to write a cookbook. In part bc I th
 
 These are mostly things I've made at least ten times.
 
-Ones marked with an asterisk are the best as rated by other people telling me they liked it.
+Ones marked with an asterisk * are the best as rated by other people telling me they liked it.
